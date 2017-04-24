@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f733a8d-65eb-4e93-bd9c-781dfa073d47" name="Default" comment="" />
+    <list default="true" id="0f733a8d-65eb-4e93-bd9c-781dfa073d47" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/landscape-plus" afterPath="$PROJECT_DIR$/themes/landscape-plus" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next" afterPath="$PROJECT_DIR$/themes/next" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia" afterPath="$PROJECT_DIR$/themes/yilia" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/Angular2-Binding学习笔记.md" afterPath="$PROJECT_DIR$/source/_posts/Angular2-Binding学习笔记.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/Angular2-Module学习笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <first_editor relative-caret-position="375">
+                <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -35,9 +42,19 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/Angular2-Binding学习笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="567">
-                <caret line="58" column="1" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-                <folding />
+              <first_editor relative-caret-position="237">
+                <caret line="211" column="6" lean-forward="false" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+                <folding>
+                  <marker date="1492873822000" expanded="true" signature="3364:3645" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="3479:3589" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="4592:4786" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="4678:4726" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="4909:4980" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="5793:5979" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="6098:6291" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="7155:7180" ph="..." />
+                  <marker date="1492873822000" expanded="true" signature="7307:7355" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -67,16 +84,19 @@
       <find>mot</find>
       <find>git</find>
       <find>gentie_productKey</find>
-      <find>&amp;</find>
       <find>2</find>
       <find />
       <find>&gt;</find>
+      <find>&amp;</find>
     </findStrings>
     <replaceStrings>
       <replace>&amp;emsp;&amp;emsp;</replace>
       <replace>&amp;lt;</replace>
       <replace>&amp;gt;</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -124,8 +144,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="382" />
-    <option name="y" value="32" />
+    <option name="x" value="487" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
@@ -857,16 +877,16 @@
       <updated>1491624195460</updated>
       <workItem from="1491624198503" duration="1876000" />
       <workItem from="1491651444467" duration="12232000" />
-      <workItem from="1491834802528" duration="23350000" />
+      <workItem from="1491834802528" duration="34654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37458000" />
+    <option name="totallyTimeSpent" value="48762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="382" y="32" width="1280" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="487" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -878,7 +898,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -925,6 +945,48 @@
         <option value="$USER_HOME$/workspace/angular2/angular_module/src/app/W/wa.service.js" />
         <option value="$USER_HOME$/workspace/angular2/angular_module/src/app/W/wb.component.js.map" />
         <option value="$USER_HOME$/workspace/angular2/angular_module/src/app/W/wb.component.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/app.component.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/app.module.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/app.component.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/app.module.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/main.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/main.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/Hero.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/Hero.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/sizer.component.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/hero-switch.components.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/click.directive.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/hero-form.component.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/hero-detail.component.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/hero-switch.components.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/click.directive.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/hero-form.component.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/hero-detail.component.js" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/sizer.component.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/app.module.1.js.map" />
+        <option value="$USER_HOME$/workspace/angular2/angular_binding/src/app/app.module.1.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+ui-elements/+buttons/buttons.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+form-validation/form-validation.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+dropzone-showcase/dropzone-showcase.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+graphs/+flot-charts/flot-charts.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+graphs/+flot-charts/flot-examples.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+tables/+datatables-showcase/datatables-showcase.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+calendar/shared/EVENTS_MOCK.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+calendar/shared/events.service.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+calendar/shared/EXTERNAL_EVENTS_MOCK.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+calendar/add-event/add-event.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+calendar/calendar-widget/calendar-widget.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+wizards/basic-wizard-widget/basic-wizard-widget.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+form-layouts/order-form/order-form.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+form-layouts/contact-form/contact-form.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+bootstrap-validation/movie-form/movie-form.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+forms/+bootstrap-validation/profile-form/profile-form.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+dashboard/+analytics/live-feeds/revenue.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+ui-elements/+general-elements/general-elements.module.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+ui-elements/+general-elements/general-elements.routing.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+ui-elements/+general-elements/general-elements.component.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+ui-elements/ui-elements.routing.js" />
+        <option value="$USER_HOME$/dingdanxia/wecai/full-version/.dev/+ui-elements/ui-elements.module.js" />
       </list>
     </option>
   </component>
@@ -1241,7 +1303,7 @@
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1287,8 +1349,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Angular2-Module学习笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <first_editor relative-caret-position="375">
+            <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1298,9 +1360,19 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/Angular2-Binding学习笔记.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="567">
-            <caret line="58" column="1" lean-forward="false" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-            <folding />
+          <first_editor relative-caret-position="237">
+            <caret line="211" column="6" lean-forward="false" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+            <folding>
+              <marker date="1492873822000" expanded="true" signature="3364:3645" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="3479:3589" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="4592:4786" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="4678:4726" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="4909:4980" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="5793:5979" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="6098:6291" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="7155:7180" ph="..." />
+              <marker date="1492873822000" expanded="true" signature="7307:7355" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
