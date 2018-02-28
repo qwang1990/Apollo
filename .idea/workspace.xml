@@ -5,8 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/landscape-plus" afterPath="$PROJECT_DIR$/themes/landscape-plus" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next" afterPath="$PROJECT_DIR$/themes/next" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia" afterPath="$PROJECT_DIR$/themes/yilia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/spring-AOP.md" afterPath="$PROJECT_DIR$/source/_posts/spring-AOP.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/mysql锁和事务.md" afterPath="$PROJECT_DIR$/source/_posts/mysql锁和事务.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -134,15 +133,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql锁和事务.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mysql锁和事务.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/mysql锁和事务.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding>
-                  <marker date="1519741966000" expanded="true" signature="2205:2283" ph="(negative in... " />
-                  <marker date="1519741966000" expanded="true" signature="2870:2915" ph="SELECT * FRO... child" />
+                  <marker date="1519820000000" expanded="true" signature="2208:2286" ph="(negative in... " />
+                  <marker date="1519820000000" expanded="true" signature="2873:2918" ph="SELECT * FRO... child" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql事务隔离级别.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/mysql事务隔离级别.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="327">
+                <caret line="129" column="17" lean-forward="false" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+                <folding>
+                  <marker date="1519820354000" expanded="true" signature="1528:1582" ph="CREATE TABLE... t" />
+                  <marker date="1519820354000" expanded="true" signature="1585:1635" ph="INSERT INTO t... " />
+                  <marker date="1519820354000" expanded="true" signature="1739:1756" ph="START TRANSA... " />
+                  <marker date="1519820354000" expanded="true" signature="1759:1789" ph="UPDATE t SET... " />
+                  <marker date="1519820354000" expanded="true" signature="1842:1872" ph="UPDATE t SET... " />
+                  <marker date="1519820354000" expanded="true" signature="1995:2015" ph="update(2,3) " />
+                  <marker date="1519820354000" expanded="true" signature="2073:2093" ph="update(4,3) " />
+                  <marker date="1519820354000" expanded="true" signature="2366:2386" ph="update(2,3) " />
+                  <marker date="1519820354000" expanded="true" signature="2442:2462" ph="update(4,3) " />
+                  <marker date="1519820354000" expanded="true" signature="2605:2625" ph="update(1,2) " />
+                  <marker date="1519820354000" expanded="true" signature="2681:2701" ph="update(3,2) " />
+                  <marker date="1519820354000" expanded="true" signature="2757:2777" ph="update(5,2) " />
                 </folding>
               </first_editor>
               <second_editor />
@@ -229,6 +254,7 @@
         <option value="$PROJECT_DIR$/source/_posts/设计模式系列-创建型模式.md" />
         <option value="$PROJECT_DIR$/source/_posts/设计模式系列-结构型模式1.md" />
         <option value="$PROJECT_DIR$/source/_posts/mysql锁和事务.md" />
+        <option value="$PROJECT_DIR$/source/_posts/mysql事务隔离级别.md" />
       </list>
     </option>
   </component>
@@ -984,12 +1010,12 @@
       <workItem from="1504948993022" duration="462000" />
       <workItem from="1507644684846" duration="36743000" />
       <workItem from="1516502641096" duration="1915000" />
-      <workItem from="1518444370708" duration="875000" />
+      <workItem from="1518444370708" duration="1388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105908000" />
+    <option name="totallyTimeSpent" value="106421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -1105,7 +1131,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/hello-world-1.md" />
     <entry file="file://$PROJECT_DIR$/scaffolds/photo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1511,11 +1536,35 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/mysql锁和事务.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding>
-              <marker date="1519741966000" expanded="true" signature="2205:2283" ph="(negative in... " />
-              <marker date="1519741966000" expanded="true" signature="2870:2915" ph="SELECT * FRO... child" />
+              <marker date="1519820000000" expanded="true" signature="2208:2286" ph="(negative in... " />
+              <marker date="1519820000000" expanded="true" signature="2873:2918" ph="SELECT * FRO... child" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/mysql事务隔离级别.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="327">
+            <caret line="129" column="17" lean-forward="false" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+            <folding>
+              <marker date="1519820354000" expanded="true" signature="1528:1582" ph="CREATE TABLE... t" />
+              <marker date="1519820354000" expanded="true" signature="1585:1635" ph="INSERT INTO t... " />
+              <marker date="1519820354000" expanded="true" signature="1739:1756" ph="START TRANSA... " />
+              <marker date="1519820354000" expanded="true" signature="1759:1789" ph="UPDATE t SET... " />
+              <marker date="1519820354000" expanded="true" signature="1842:1872" ph="UPDATE t SET... " />
+              <marker date="1519820354000" expanded="true" signature="1995:2015" ph="update(2,3) " />
+              <marker date="1519820354000" expanded="true" signature="2073:2093" ph="update(4,3) " />
+              <marker date="1519820354000" expanded="true" signature="2366:2386" ph="update(2,3) " />
+              <marker date="1519820354000" expanded="true" signature="2442:2462" ph="update(4,3) " />
+              <marker date="1519820354000" expanded="true" signature="2605:2625" ph="update(1,2) " />
+              <marker date="1519820354000" expanded="true" signature="2681:2701" ph="update(3,2) " />
+              <marker date="1519820354000" expanded="true" signature="2757:2777" ph="update(5,2) " />
             </folding>
           </first_editor>
           <second_editor />
