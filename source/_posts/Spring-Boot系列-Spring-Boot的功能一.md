@@ -38,7 +38,7 @@ public static void main(String[] args) {
 可以在你的classpath中添加banner.txt文件或设置spring.banner.location属性来这只文件名。如果文件的编码不是UTF-8，你可以使用spring.banner.charset来修改该编码。除了text文件之外，你还可以在你的classpath中添加banner.gif,banner.jps,banner.png文件，或这只spring.banner.image.location属性。图片会被转化成ASCII表达，并且在text banner上面打印。
 
 在banner.txt文件中，你可以使用如下占位符:
-< img width="1153" alt="2018-04-07 11 41 04" src="https://user-images.githubusercontent.com/13915081/38450913-a2d915e2-3a58-11e8-803e-8f39991c6e72.png">
+<img width="1153" alt="2018-04-07 11 41 04" src="https://user-images.githubusercontent.com/13915081/38450913-a2d915e2-3a58-11e8-803e-8f39991c6e72.png">
 
 打印banner的功能是名为springBootBanner的单类bean提供的。
 
@@ -114,4 +114,48 @@ public class MyBean {
 }
 ```
 
-未完待续。。。。。。！！！
+#### 使用ApplicationRunner或CommandLineRunner
+如果你想在SpringApplication启动前执行一些特别的代码，你可以使用ApplicationRunner或CommandRunner接口。这两个接口的工作方式是一样的，都是提供一个run方法，它将会在SpringApplication.run之前调用。
+
+CommandLineRunner接口提供一种以数组方式访问应用参数方法，ApplicationRunner使用的是ApplicationArguments接口，前面讲到过。下面看一下CommandLineRunner的例子:
+```java
+import org.springframework.boot.*
+import org.springframework.stereotype.*
+
+@Component
+public class MyBean implements CommandLineRunner {
+
+    public void run(String... args) {
+        // Do something...
+    }
+
+}
+```
+如果你定义了多个CommandLineRunner或ApplicationRunner，并且想让它们按照一定的顺序执行，你可以添加org.springframework.core.Ordered接口或使用org.springframework.core.annotation.Order注解。
+
+#### Application Exit
+每个SpringApplication可以注册一个关闭钩子，用来确保其优雅的退出。在这个钩子里所有的标准的Spring生命周期皆可使用。
+
+除此之外，beans如果想在调用SpringApplication.exit()退出时返回指定的code 还可以实现org.springframework.boot.ExitCodeGenerator。这个退出码可以传递给System.exit()用于返回。例如:
+```java
+@SpringBootApplication
+public class ExitCodeApplication {
+
+    @Bean
+    public ExitCodeGenerator exitCodeGenerator() {
+        return () -> 42;
+    }
+
+    public static void main(String[] args) {
+        System.exit(SpringApplication
+                .exit(SpringApplication.run(ExitCodeApplication.class, args)));
+    }
+
+}
+```
+
+ExitCodeGenerator还可以被异常来实现，此时当遇到该异常时Spring boot可以通过getExitCode来获取退出码。
+
+#### Admin功能
+可以通过spring.application.admin.enabled属性来开启admin相关功能。它会在MbeanSever平台上暴露SpringApplicationAdminMXBean。你可以使用它来远程管理你的Spring Boot应用。
+>如果你想知道应用在哪个HTTP端口上运行，可以通过local.server.port属性获得。！

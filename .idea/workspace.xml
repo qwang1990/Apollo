@@ -5,7 +5,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/landscape-plus" afterPath="$PROJECT_DIR$/themes/landscape-plus" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/next" afterPath="$PROJECT_DIR$/themes/next" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yilia" afterPath="$PROJECT_DIR$/themes/yilia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能一.md" afterPath="$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能一.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/Spring-Boot系列-目录.md" afterPath="$PROJECT_DIR$/source/_posts/Spring-Boot系列-目录.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,44 +50,6 @@
                   <marker date="1518444565000" expanded="true" signature="3846:3935" ph="//..." />
                   <marker date="1518444565000" expanded="false" signature="4714:4725" ph=" { " />
                   <marker date="1518444565000" expanded="false" signature="4790:4798" ph=" }" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="设计模式系列-结构型模式1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/设计模式系列-结构型模式1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="52" column="23" lean-forward="false" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
-                <folding>
-                  <marker date="1518444658000" expanded="false" signature="325:336" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="365:373" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="428:439" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="468:476" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="501:512" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="529:537" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="817:828" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="871:879" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="1068:1079" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="1104:1112" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="1152:1163" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="1175:1183" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="1590:1601" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="1645:1653" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="1703:1714" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="1724:1732" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="1779:1790" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="1848:1856" ph=" }" />
-                  <marker date="1518444658000" expanded="false" signature="2122:2133" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="2160:2168" ph=" }" />
-                  <marker date="1518444658000" expanded="true" signature="2212:2310" ph="{...}" />
-                  <marker date="1518444658000" expanded="true" signature="2361:2441" ph="{...}" />
-                  <marker date="1518444658000" expanded="false" signature="2488:2499" ph=" { " />
-                  <marker date="1518444658000" expanded="false" signature="2522:2530" ph=" }" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -149,12 +112,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Spring-Boot系列-目录.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Spring-Boot系列-目录.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-目录.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -189,8 +152,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-开发工具.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <first_editor relative-caret-position="162">
+                <caret line="35" column="123" lean-forward="true" selection-start-line="35" selection-start-column="123" selection-end-line="35" selection-end-column="123" />
                 <folding>
                   <marker date="1523110872000" expanded="true" signature="170:361" ph="..." />
                   <marker date="1523110872000" expanded="true" signature="187:345" ph="..." />
@@ -209,11 +172,28 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能一.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="507">
-                <caret line="110" column="33" lean-forward="false" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
                 <folding>
-                  <marker date="1523111009000" expanded="true" signature="4767:4961" ph="{...}" />
+                  <marker date="1523285474000" expanded="true" signature="4766:4960" ph="{...}" />
+                  <marker date="1523285474000" expanded="true" signature="5441:5475" ph="{...}" />
+                  <marker date="1523285474000" expanded="true" signature="5981:5992" ph=" { " />
+                  <marker date="1523285474000" expanded="true" signature="6008:6014" ph=" }" />
+                  <marker date="1523285474000" expanded="true" signature="6059:6184" ph="{...}" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spring-Boot系列-Spring-Boot的功能二-配置.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能二-配置.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1815">
+                <caret line="121" column="7" lean-forward="false" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -322,6 +302,7 @@
         <option value="$PROJECT_DIR$/source/_posts/Spring-Boot系列-开发工具.md" />
         <option value="$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能一.md" />
         <option value="$PROJECT_DIR$/source/_posts/Spring-Boot系列-目录.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能二-配置.md" />
       </list>
     </option>
   </component>
@@ -1077,12 +1058,12 @@
       <workItem from="1504948993022" duration="462000" />
       <workItem from="1507644684846" duration="36743000" />
       <workItem from="1516502641096" duration="1915000" />
-      <workItem from="1518444370708" duration="5083000" />
+      <workItem from="1518444370708" duration="6458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110116000" />
+    <option name="totallyTimeSpent" value="111491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1103,7 +1084,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19063005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22294022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1198,13 +1179,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/yilia/layout/category.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/yilia/layout/archive.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1643,11 +1617,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能一.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <folding>
+              <marker date="1523285474000" expanded="true" signature="4766:4960" ph="{...}" />
+              <marker date="1523285474000" expanded="true" signature="5441:5475" ph="{...}" />
+              <marker date="1523285474000" expanded="true" signature="5981:5992" ph=" { " />
+              <marker date="1523285474000" expanded="true" signature="6008:6014" ph=" }" />
+              <marker date="1523285474000" expanded="true" signature="6059:6184" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-目录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-开发工具.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <first_editor relative-caret-position="162">
+            <caret line="35" column="123" lean-forward="true" selection-start-line="35" selection-start-column="123" selection-end-line="35" selection-end-column="123" />
             <folding>
               <marker date="1523110872000" expanded="true" signature="170:361" ph="..." />
               <marker date="1523110872000" expanded="true" signature="187:345" ph="..." />
@@ -1661,24 +1663,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能一.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-Spring-Boot的功能二-配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="507">
-            <caret line="110" column="33" lean-forward="false" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
-            <folding>
-              <marker date="1523111009000" expanded="true" signature="4767:4961" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Spring-Boot系列-目录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <first_editor relative-caret-position="1815">
+            <caret line="121" column="7" lean-forward="false" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
